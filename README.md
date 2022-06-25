@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ron1005
 - 👀 I’m interested in becoming a better programmer everyday 
-- 🌱 I’m currently learning DSA and React
+- 🌱 I’m currently learning DSA and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohamhad98@gmail.com 
 
