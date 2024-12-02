@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Ron1005
-- 👀 I’m interested in learning something new everyday 
-- 🌱 I’m currently learning and working hard to become a React/Front-End Expert
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m SubZero
+- 👀 I’m interested in learning something new every day 
 - 📫 How to reach me rohamhad98@gmail.com 
 
 <!---
